@@ -1,2 +1,4 @@
 This is file B
 Let's make a change for featureA
+making another change
+This is squash merge
