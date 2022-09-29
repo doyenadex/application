@@ -1,2 +1,2 @@
 This is file B
-Let's make a change
+Let's make a change for featureA
